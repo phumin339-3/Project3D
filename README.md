@@ -145,6 +145,8 @@ Platformer 3D คลาสสิกในสไตล์ **การต่อส
 
 ### 🕹️ หน้าเกม (ฉากเมนู)  
 <img width="631" height="287" alt="image" src="https://github.com/user-attachments/assets/d8d9ef8c-c9da-4295-985e-50c68c1aee39" />
+
+---
 ### 🕹️ ตัวอย่างการเล่น  
 <img width="631" height="286" alt="image" src="https://github.com/user-attachments/assets/b11e1288-ec88-4efb-87ca-3a9006ca6e89" />
 <img width="632" height="266" alt="image" src="https://github.com/user-attachments/assets/c9aa46fc-352c-475f-836d-84a552c60974" />
@@ -154,12 +156,10 @@ Platformer 3D คลาสสิกในสไตล์ **การต่อส
 <img width="632" height="290" alt="image" src="https://github.com/user-attachments/assets/b0cc89f0-087c-471b-a818-2be34f6dec54" />
 
 ---
-
 ## 📌 Credits  
 - **Game Template**: มาจาก 
-- **Assets**: มาจาก 
-
-
+- **Assets**: มาจาก
+  
 ---
 ## 📌 รันเกมบน Web
 https://phumin339-3.github.io/Project3D/
