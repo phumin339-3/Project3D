@@ -199,7 +199,10 @@ const engine = new Engine(GODOT_CONFIG);
 		}
 	} else {
 		setStatusMode('progress');
+		const PCK_URL = "https://github.com/phumin339-3/Project3D/releases/download/v1.0.0/index.pck";
+
 		engine.startGame({
+			mainPack: PCK_URL,
 			'onProgress': function (current, total) {
 				if (current > 0 && total > 0) {
 					statusProgress.value = current;
