@@ -144,10 +144,14 @@ Platformer 3D คลาสสิกในสไตล์ **การต่อส
 
 
 ### 🕹️ หน้าเกม (ฉากเมนู)  
-
-
+<img width="631" height="287" alt="image" src="https://github.com/user-attachments/assets/d8d9ef8c-c9da-4295-985e-50c68c1aee39" />
 ### 🕹️ ตัวอย่างการเล่น  
-
+<img width="631" height="286" alt="image" src="https://github.com/user-attachments/assets/b11e1288-ec88-4efb-87ca-3a9006ca6e89" />
+<img width="632" height="266" alt="image" src="https://github.com/user-attachments/assets/c9aa46fc-352c-475f-836d-84a552c60974" />
+<img width="632" height="293" alt="image" src="https://github.com/user-attachments/assets/3c95c57f-f37a-4500-bd11-c93d13b5ee22" />
+<img width="634" height="292" alt="image" src="https://github.com/user-attachments/assets/f73c7ff4-51ae-410e-bab1-ce51a7511d86" />
+<img width="632" height="292" alt="image" src="https://github.com/user-attachments/assets/3e3139b5-3257-4e34-acbd-69b1c9025a1c" />
+<img width="632" height="290" alt="image" src="https://github.com/user-attachments/assets/b0cc89f0-087c-471b-a818-2be34f6dec54" />
 
 ---
 
